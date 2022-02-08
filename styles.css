@@ -100,7 +100,7 @@ footer p {
 footer p a:hover {
     color:hsl(178, 100%, 50%)
 }
-footer a:visited{color: hsl(215, 51%, 70%);}
+footer a:visited {color: hsl(215, 51%, 70%);}
 
 .middle {
     transition: .5s ease;
